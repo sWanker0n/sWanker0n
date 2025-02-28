@@ -28,13 +28,13 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="70%" align="center">
-  <a align="left" href="https://github.com/sWanker0n/Berachain-BGT-soft" title="Berachain BGT soft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/sWanker0n/Elixir" title="Elixir Soft"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sWanker0n/Berachain-BGT-soft" title="Berachain BGT soft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=Berachain-BGT-soft&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/sWanker0n/Elixir" title="Elixir Soft"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=Elixir&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="70%" align="center">
-  <a align="left" href="https://github.com/sWanker0n/Blast-Gold" title="Blast Gold Soft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/sWanker0n/Unisat_Points_Check" title="Unisat Points Check"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sWanker0n/Blast-Gold" title="Blast Gold Soft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=Blast-Gold&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/sWanker0n/Unisat_Points_Check" title="Unisat Points Check"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=Unisat_Points_Check&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
