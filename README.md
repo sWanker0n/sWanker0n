@@ -24,7 +24,7 @@
 
 <br>
 <div width="70%" align="center">
-  <a align="left" href="https://github.com/sWanker0n/HyperLend-Soft" title="HyperLend Soft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=HyperLend-Soft&theme=react&border_color=61dafb&border_radius=10"></a> <a align="right" href="https://github.com/sWanker0n/sdk" title="SDK"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=sdk&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sWanker0n/HyperLend-Soft" title="HyperLend Soft"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=HyperLend-Soft&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/sWanker0n/sdk" title="SDK"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sWanker0n&repo=sdk&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="70%" align="center">
